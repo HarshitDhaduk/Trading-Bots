@@ -33,7 +33,7 @@ pip install -r requirements.txt
 To backtest a strategy with historical data, execute the corresponding strategy script:
 
 ```bash
-python 528_bt_bo_WIF.py
+python Breakout_Strategy.py
 ```
 
 ### Customization and Deployment
