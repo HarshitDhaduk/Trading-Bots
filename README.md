@@ -1,5 +1,5 @@
 
-# Trading Bot Project
+# Algorithmic Trading Bot with Backtesting and Strategy Optimization
 
 ## 📄 Overview
 
